@@ -10,6 +10,7 @@ namespace commevousvoulez
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Oui of course");
         }
     }
 }
